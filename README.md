@@ -59,3 +59,29 @@ We will be using Zoom and Trello to manage and organize our time and tasks, and 
 
 Almost all of the components of our project will live on GitHub, especially code related things. We have already created an organization for out team, and we added the repositories that will contain the main project, all of the members have been added to that organization and have the access to modify and upload code and push thier latest work and once that is done, all of the team will pull that latest update to their local machine. We will try to make everyone work on a separate file at a time, except when doing pair programming, to avoid having conflicts as much as possible.
 
+
+# Previously discussed ideas :
+
+## * A :
+
+1. Dammak-Hayah (approved).
+
+2. This project is the least assistance that can be provided to our families suffering from anemia and cancer and other affected families in our country.
+This project is based on facilitating the process of donating blood and ensuring its continuity and trying to provide donors faster than the usual methods by linking donors to hospital centers directly and simply.
+
+3. The minimum required is, The donors and hospitals should be linked in a simple and clear way.
+And the addition of operations that help determine the amount and type of blood required and the place where this assistance was requested,
+It also provides a way to ensure that information is organized by both parties before and after the donation.
+
+
+## * B : 
+
+1. Car wash.
+
+2. This project provides car owners with multiple services in terms of the type and location of the service.
+The subscriber can request a car wash anywhere, anytime and in any way.
+By communicating with the work team through the website and requesting a distinctive car wash anywhere and anytime.
+
+3. Providing direct contact by connecting the subscriber with a distinguished work team,
+Documenting the subscriber’s information from the location and method of washing required,
+Providing several contacts with several teams of car wash specialists.
