@@ -102,3 +102,25 @@ Providing several contacts with several teams of car wash specialists.
 - https://trello.com/b/cINkPtNS/dammak-hayah
 
 
+# Begin Wireframes & Software Requirements :
+
+## * Software Requirements :
+
+* Intellij idea.
+
+* GitHub.
+
+* Trello.
+
+* Spring Framework.
+
+
+
+
+## * Begin Wireframes :
+
+![projectWireframe](BeginWireframes/projectWireframe.jpg)
+
+![projectWireframe(1)](BeginWireframes/projectWireframe(1).jpg)
+
+![projectWireframe(2)](BeginWireframes/projectWireframe(2).jpg)
