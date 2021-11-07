@@ -21,6 +21,11 @@ public class HomeController {
         return "login.html";
     }
 
+    @GetMapping("/signup")
+    public String signup(){
+        return "signup.html";
+    }
+
 
 
 
